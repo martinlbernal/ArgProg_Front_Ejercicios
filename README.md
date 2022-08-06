@@ -1,2 +1,2 @@
 # ArgProg_Front
-Descripción del proyecto
+Descripción del proyecto...
