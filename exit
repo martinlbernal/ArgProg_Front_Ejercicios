@@ -1,0 +1,72 @@
+[33mcommit d0ca5e00bf9b1b98c0f099bd5e28c033fbbe7d15[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Martin <martinlbernal@gmail.com>
+Date:   Sat Aug 27 11:34:51 2022 -0300
+
+    actualicé nombre y acomodé ejercicios en esta carpeta
+
+[33mcommit 303e903f3c352b52be40b9475216d3df1d0c318a[m[33m ([m[1;33mtag: v.1.1[m[33m, [m[1;31morigin/desarrollo[m[33m)[m
+Merge: 1f3a3d1 38505c7
+Author: Martin <martinlbernal@gmail.com>
+Date:   Sat Aug 6 09:29:19 2022 -0300
+
+    Merge branch 'desarrollo'
+
+[33mcommit 38505c78a55079fd1b46684cef93f675f97fbd15[m[33m ([m[1;32mdesarrollo[m[33m)[m
+Author: Martin <martinlbernal@gmail.com>
+Date:   Sat Aug 6 09:28:27 2022 -0300
+
+    agregué el registro
+
+[33mcommit 1f3a3d1fd53a43bab12de1b4c6c4d30502c29b09[m
+Merge: fa5e21c c3a808e
+Author: Martin Bernal <93620634+martinlbernal@users.noreply.github.com>
+Date:   Sat Aug 6 09:24:25 2022 -0300
+
+    Merge pull request #2 from martinlbernal/desarrollo
+    
+    Desarrollo
+
+[33mcommit c3a808e58ddce79f6403c204606b62c261aff012[m
+Author: Martin Bernal <93620634+martinlbernal@users.noreply.github.com>
+Date:   Sat Aug 6 09:23:32 2022 -0300
+
+    Update README.md
+
+[33mcommit 4cddfb0b6ef8e67eff4352cfaeeef11800afbad3[m
+Author: Martin Bernal <93620634+martinlbernal@users.noreply.github.com>
+Date:   Sat Aug 6 09:20:38 2022 -0300
+
+    Create README.md
+
+[33mcommit fa5e21cb8deaf2867810e02ad1517d70d117f19b[m
+Merge: 32c8209 1246f1f
+Author: Martin Bernal <93620634+martinlbernal@users.noreply.github.com>
+Date:   Sat Aug 6 09:18:38 2022 -0300
+
+    Merge pull request #1 from martinlbernal/desarrollo
+    
+    Update index.html
+
+[33mcommit 1246f1fd6e2758598a8fff8d342c8d33028d66d2[m
+Author: Martin Bernal <93620634+martinlbernal@users.noreply.github.com>
+Date:   Sat Aug 6 09:17:15 2022 -0300
+
+    Update index.html
+
+[33mcommit 32c8209d38e69574aba9903cae3e6708b5071abe[m
+Author: Martin <martinlbernal@gmail.com>
+Date:   Sat Aug 6 08:56:01 2022 -0300
+
+    agregué login
+
+[33mcommit 62720b3b9d82e546b12d639c6d774b1af20184d2[m
+Author: Martin <martinlbernal@gmail.com>
+Date:   Sat Aug 6 08:43:18 2022 -0300
+
+    cambié extensiones, eliminé incorrectos, creé index en extensión html
+
+[33mcommit 36bd512bb766f04a44e1b604f788c249e6029142[m
+Author: Martin <martinlbernal@gmail.com>
+Date:   Sat Aug 6 08:39:01 2022 -0300
+
+    agregué index
